@@ -1,0 +1,114 @@
+body{
+  font-family: Helvetica;
+  color:#BBB;
+  font-size: 9px;
+}
+h1{
+  color:black;
+  font-weight: 5px;
+  font-size: 24px;
+  font-family: Helvetica;
+  padding-left: 85px;
+  margin-top: 10px;
+}
+.container input{
+  border:none;
+  border-bottom: 1.5px solid grey;
+  outline:none;
+  width:263px;
+};
+.container label{
+  color:grey;
+  size:18 px;
+}
+.container{
+  padding-top:10px;
+  text-align:left;
+  align-items: center;
+  width:375px;
+  height:812px;
+  margin-left: 400px;
+  margin-top: 5px;
+}
+.buton{
+  border:none;
+  color:black;
+  border-radius: 50px;
+  background-color:#BBB ;
+  width:228px;
+  height:48px;
+  font-weight: 400;
+  margin-top:25px;
+
+}
+.buton:hover{
+background-color: #fffc00;
+}
+.parent{
+  border:none;
+  height: 93vh;
+}
+.line2{
+  margin-top: 20px;;
+}
+.line3{
+  margin-top:15px;
+  margin-left: 28px;
+}
+.upper-band{
+  width: 370px;
+  background-color: #fffc00;
+  height: 58px;
+  margin-left: 400px;
+  flex-shrink: 0;
+  margin-bottom:7px;
+}.alone{
+  padding-left: 50px;
+  margin-top: 20px;
+}
+.google{
+  border:none;
+  color:#fffc00;
+  border-radius: 50px;
+  background-color:#000;
+  width:228px;
+  height:38px;
+  font-weight: 400;
+  margin-top:20px;
+  margin-bottom: 15px;
+  margin-left: 75px;
+}
+.top-right{
+  position: absolute;
+  margin-top: 8px;
+  padding-left: 320px;
+}
+.trouble{
+  color:#000;
+  padding-left:120px;
+  font-size:14px;
+  font-weight: 600;
+  font-family: Helvetica;
+  font-style: normal;
+  margin-top:5px;
+}
+.otherwise{
+  color:#BBB;
+  font-size:25px;
+  margin-left: 160px;
+}
+.sign{
+  color:#000;
+  padding-left: 60px;
+  font-size: 10px;
+  padding-top: 10px;
+  font-family: Helvetica;
+
+}
+.forget{
+  color: #0D46D9;
+  font-family: Helvetica;
+  padding-left: 190px;
+  font-weight: 600;
+  line-height: normal;
+}
